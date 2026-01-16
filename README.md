@@ -1,7 +1,7 @@
-# Test App
+# Onboarding Flow App
 
 ## About
-This is a test iOS app meant to replicate the Onboarding UI from a mockup.
+This is an iOS app meant to replicate the Onboarding UI from a mockup.
 
 ## Tech Stack
 - Swift
