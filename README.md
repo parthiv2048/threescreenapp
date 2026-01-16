@@ -1,7 +1,7 @@
 # Test App
 
 ## About
-This is a test app meant to replicate the UI from a mockup.
+This is a test iOS app meant to replicate the Onboarding UI from a mockup.
 
 ## Tech Stack
 - Swift
@@ -11,6 +11,6 @@ This is a test app meant to replicate the UI from a mockup.
 
 ## Features
 This app has 3 screens connected by a navigation controller -
-- Sign Up screen using Username and Name
+- User Information screen with text fields for Username and Name
 - Profile Image selection screen (this screen doesn't have the Image picker yet)
-- Turn on Notifications screen
+- Turn On Notifications screen
